@@ -15,3 +15,7 @@
 # git remote remove <name>
 
 # hello
+# чтобы изменить:
+# git add git_commands.py
+# git commit -m 'hello'
+# git push origin master
